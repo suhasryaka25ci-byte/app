@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield",
+  "description": "Digital safety & online scam awareness platform with AI analyzer, interactive simulator, student & senior centers, and emergency reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
